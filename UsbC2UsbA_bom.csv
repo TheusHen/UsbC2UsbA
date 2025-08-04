@@ -1,0 +1,8 @@
+"Id";"Designador";"Footprint";"Quantidade";"Designação";"Fornecedor e referência";
+1;"J2";"SAMTEC_USB-AM-S-X-X-TH";1;"USB-AM-S-X-X-TH";;;
+2;"FB1";"LairdTech_28C0236-0JW-10";1;"FerriteBead_Small";;;
+3;"F1";"Fuse_Schurter_UMT250";1;"Polyfuse";;;
+4;"R1,R2";"R_0603_1608Metric";2;"56k";;;
+5;"J1";"USB_C_Receptacle_HRO_TYPE-C-31-M-12";1;"USB_C_Receptacle_USB2.0_14P";;;
+6;"U1";"SOT-23-6";1;"USBLC6-2SC6";;;
+7;"C1";"C_0603_1608Metric";1;"C_Small";;;
